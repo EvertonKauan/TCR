@@ -3,7 +3,7 @@ Teorema Chinês do Resto
 
 Código com o intuito de calcular os resultados entre congruências envolvendo o teorema chinês do resto.
 
-Desenvolvido em Python, foi dividido em 2 arquivos .py:
+Desenvolvido em Python3, foi dividido em 2 arquivos .py:
 main.py = Corpo do código
 funcoes.py = Funções utilizadas no corpo
 
